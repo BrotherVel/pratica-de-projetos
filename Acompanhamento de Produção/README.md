@@ -1,6 +1,8 @@
+<div align="center">
 <a href="https://www.linkedin.com/in/lucas-rodrigues-8a6259348/">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FFC300,100:FF6D00&height=200&section=header&text=Pratica de Projetos&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Acompanhamento%20Logístico%20%7C%20Atingimento%20de%20Metas&descAlignY=58&descSize=16"/>
 </a>
+</div>
 
 <div align="center" style="margin-top: -25px;>
 
