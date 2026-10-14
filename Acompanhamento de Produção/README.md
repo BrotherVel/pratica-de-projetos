@@ -19,9 +19,9 @@ Projeto desenvolvido seguindo orientações de professores da comunidade de aná
 
 ---
 
-- Veja o email solicitação de projeto fictício [aqui](./solicitacao_projeto_metas.pdf)
-- Acesse ao projeto power bi desenvolvido em power bi [aqui](./dashboard-acompanhamento-produção-vs-metas.pbip)
-- Acesse ao dashboard final [aqui](https://app.powerbi.com/view?r=eyJrIjoiYTBhYjI2ZGMtZTJjMC00NzJhLThiNTMtY2NhZTRhN2UxZGViIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+- Veja o email solicitação de projeto fictício [aqui.](https://github.com/BrotherVel/pratica-de-projetos/blob/d65590bee7ad96ce81040fe3d0e34b9ad1e8f508/Acompanhamento%20de%20Produ%C3%A7%C3%A3o/Solicitacao_Projeto_Metas.pdf)
+- Acesse ao projeto power bi desenvolvido em power bi [aqui.](https://github.com/BrotherVel/pratica-de-projetos/blob/d65590bee7ad96ce81040fe3d0e34b9ad1e8f508/Acompanhamento%20de%20Produ%C3%A7%C3%A3o/DsBd-Acompanhamento-log%C3%ADstico.pbix)
+- Acesse ao dashboard final [aqui.](https://app.powerbi.com/view?r=eyJrIjoiYTBhYjI2ZGMtZTJjMC00NzJhLThiNTMtY2NhZTRhN2UxZGViIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 # Desenvolvimento do projeto
 
